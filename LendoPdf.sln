@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendoPdf", "LendoPdf\LendoPdf.csproj", "{100E2DE0-C0E2-4DDE-884A-E0163C528680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100E2DE0-C0E2-4DDE-884A-E0163C528680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100E2DE0-C0E2-4DDE-884A-E0163C528680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100E2DE0-C0E2-4DDE-884A-E0163C528680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100E2DE0-C0E2-4DDE-884A-E0163C528680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4F0C8DC-CDA6-4237-A052-3E4BF5F9E4C8}
+	EndGlobalSection
+EndGlobal

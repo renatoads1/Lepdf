@@ -1,0 +1,17 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\bin\Debug\netcoreapp3.1\LendoPdf.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\bin\Debug\netcoreapp3.1\LendoPdf.deps.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\bin\Debug\netcoreapp3.1\LendoPdf.runtimeconfig.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\bin\Debug\netcoreapp3.1\LendoPdf.runtimeconfig.dev.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\bin\Debug\netcoreapp3.1\LendoPdf.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\bin\Debug\netcoreapp3.1\LendoPdf.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\obj\Debug\netcoreapp3.1\LendoPdf.csproj.AssemblyReference.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\obj\Debug\netcoreapp3.1\LendoPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\obj\Debug\netcoreapp3.1\LendoPdf.AssemblyInfoInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\obj\Debug\netcoreapp3.1\LendoPdf.AssemblyInfo.cs
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\obj\Debug\netcoreapp3.1\LendoPdf.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\obj\Debug\netcoreapp3.1\LendoPdf.csproj.CopyComplete
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\obj\Debug\netcoreapp3.1\LendoPdf.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\obj\Debug\netcoreapp3.1\LendoPdf.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\LendoPdf\LendoPdf\obj\Debug\netcoreapp3.1\LendoPdf.genruntimeconfig.cache
