@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vQx+DvgNQK5qcO6QH7LXUrDTXsI2U3QLEo20iiDOHdkQqCXxGXbD2wuCo38IBrr7y4Y+CT2KBmmF5Li8POxDzg==",
+  "dgSpecHash": "PyOxXqkdpXjzRc/vjPyPDqMfGK98a/ehtLJlheTQnK1cEy70d7Yi+48S3cMTDtTLZmWV2DTHwAQlhNBpsaYzEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renato.lacerda.IMAGINACTION\\source\\repos\\LendoPdf\\LendoPdf\\LendoPdf.csproj",
+  "projectFilePath": "C:\\Users\\Renato\\source\\repos\\Lepdf\\LendoPdf\\LendoPdf.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\renato.lacerda.IMAGINACTION\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
-    "C:\\Users\\renato.lacerda.IMAGINACTION\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512"
+    "C:\\Users\\Renato\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\Renato\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512"
   ],
   "logs": [
     {

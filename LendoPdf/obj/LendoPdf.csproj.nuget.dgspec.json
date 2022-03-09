@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renato.lacerda.IMAGINACTION\\source\\repos\\LendoPdf\\LendoPdf\\LendoPdf.csproj": {}
+    "C:\\Users\\Renato\\source\\repos\\Lepdf\\LendoPdf\\LendoPdf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renato.lacerda.IMAGINACTION\\source\\repos\\LendoPdf\\LendoPdf\\LendoPdf.csproj": {
+    "C:\\Users\\Renato\\source\\repos\\Lepdf\\LendoPdf\\LendoPdf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renato.lacerda.IMAGINACTION\\source\\repos\\LendoPdf\\LendoPdf\\LendoPdf.csproj",
+        "projectUniqueName": "C:\\Users\\Renato\\source\\repos\\Lepdf\\LendoPdf\\LendoPdf.csproj",
         "projectName": "LendoPdf",
-        "projectPath": "C:\\Users\\renato.lacerda.IMAGINACTION\\source\\repos\\LendoPdf\\LendoPdf\\LendoPdf.csproj",
-        "packagesPath": "C:\\Users\\renato.lacerda.IMAGINACTION\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renato.lacerda.IMAGINACTION\\source\\repos\\LendoPdf\\LendoPdf\\obj\\",
+        "projectPath": "C:\\Users\\Renato\\source\\repos\\Lepdf\\LendoPdf\\LendoPdf.csproj",
+        "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renato\\source\\repos\\Lepdf\\LendoPdf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\renato.lacerda.IMAGINACTION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -29,7 +29,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\renato.lacerda.IMAGINACTION\\.nuget\\imaginaction": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
